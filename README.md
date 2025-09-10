@@ -1,9 +1,4 @@
-<table>
-<tr>
-<td width="160">
-  <img src="https://github.com/ckhushio.png" width="200" style="border-radius:50%">
-</td>
-<td>
+
  
 # 👋 Hi, I'm Khushi Chhabra  
 
