@@ -1,18 +1,10 @@
 <table>
 <tr>
 <td width="160">
-  <img src="https://github.com/ckhushio.png" width="150" style="border-radius:50%">
+  <img src="https://github.com/ckhushio.png" width="200" style="border-radius:50%">
 </td>
 <td>
-  <h3>Hi, I'm Khushi Chhabra</h3>
-  Data Analyst | Power BI | SQL | Python | Excel  
-  <br>  
-  I specialize in building dashboards, optimizing queries, and automating workflows to turn data into decisions.
-</td>
-</tr>
-</table>
-
-
+ 
 # 👋 Hi, I'm Khushi Chhabra  
 
 🔎 Data Analyst | Power BI | SQL | Python | Excel | DAX | Power Query  
