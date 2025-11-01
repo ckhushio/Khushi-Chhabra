@@ -43,6 +43,7 @@ I specialize in **Power BI, SQL, Python, and Data Visualization, Statistics**, w
 📫 **Let’s Connect**  
 - [LinkedIn](https://www.linkedin.com/in/khushi-chhabra-012b011a7/)  
 - [GitHub](https://github.com/ckhushio/Data-analysis)  
-- 📧 Email: Khushichhabra501@gmail.com  
+- 📧 Email: Khushichhabra501@gmail.com
+- PortFolio: (https://khushi-bytes.lovable.app/)
 
 ✨ *Always curious, always learning, and passionate about turning raw data into meaningful insights.*  
